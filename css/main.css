@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'DosisExtraLight';
+  src: local("Dosis ExtraLight"), local("Dosis-ExtraLight"), url("../fonts/Dosis/DosisExtraLight/dosisextralight.woff2") format("woff2"), url("../fonts/Dosis/DosisExtraLight/dosisextralight.woff") format("woff"), url("../fonts/Dosis/DosisExtraLight/dosisextralight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'DosisLight';
+  src: local("Dosis Light"), local("Dosis-Light"), url("../fonts/Dosis/DosisLight/dosislight.woff2") format("woff2"), url("../fonts/Dosis/DosisLight/dosislight.woff") format("woff"), url("../fonts/Dosis/DosisLight/dosislight.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'DosisRegular';
+  src: local("Dosis"), local("Dosis-Regular"), url("../fonts/Dosis/DosisRegular/dosis.woff2") format("woff2"), url("../fonts/Dosis/DosisRegular/dosis.woff") format("woff"), url("../fonts/Dosis/DosisRegular/dosis.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal; }
+
+html, body {
+  width: 100%;
+  height: 100%;
+  font-size: 11px; }
